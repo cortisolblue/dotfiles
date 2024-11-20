@@ -1,6 +1,0 @@
-2024/11/08-12:57:41.208 3cf Creating DB /home/kiroshi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
-2024/11/08-12:57:41.218 3cf Reusing MANIFEST /home/kiroshi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/08-12:57:41.244 3da Level-0 table #5: started
-2024/11/08-12:57:41.248 3da Level-0 table #5: 758 bytes OK
-2024/11/08-12:57:41.254 3da Delete type=0 #3
-2024/11/08-12:57:41.254 3da Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

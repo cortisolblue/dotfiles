@@ -1,7 +1,0 @@
-2024/11/07-20:53:35.050 2b3f Reusing MANIFEST /home/kiroshi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/07-20:53:35.050 2b3f Recovering log #3
-2024/11/07-20:53:35.051 2b3f Reusing old log /home/kiroshi/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
-2024/11/07-23:46:47.819 2b3f Level-0 table #5: started
-2024/11/07-23:46:47.825 2b3f Level-0 table #5: 12682 bytes OK
-2024/11/07-23:46:47.830 2b3f Delete type=0 #3
-2024/11/07-23:46:47.831 2b3f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
