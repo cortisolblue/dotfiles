@@ -1,0 +1,28 @@
+{
+    "checksum": "167c8937515e8fb46199a043707330c4",
+    "wallpaper": "/home/kiroshi/themes/current-wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0B08",
+        "foreground": "#c2c2c1",
+        "cursor": "#c2c2c1"
+    },
+    "colors": {
+        "color0": "#0C0B08",
+        "color1": "#704B33",
+        "color2": "#3E3F40",
+        "color3": "#695A48",
+        "color4": "#685D4E",
+        "color5": "#865036",
+        "color6": "#916D52",
+        "color7": "#c2c2c1",
+        "color8": "#696255",
+        "color9": "#704B33",
+        "color10": "#3E3F40",
+        "color11": "#695A48",
+        "color12": "#685D4E",
+        "color13": "#865036",
+        "color14": "#916D52",
+        "color15": "#c2c2c1"
+    }
+}

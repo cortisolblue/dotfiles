@@ -1,0 +1,28 @@
+{
+    "checksum": "36bd0056b4ff5ff0798fe135a1a9733e",
+    "wallpaper": "/home/kiroshi/pictures/wallpapers/tlou-joel-guitar.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0705",
+        "foreground": "#c2c1c0",
+        "cursor": "#c2c1c0"
+    },
+    "colors": {
+        "color0": "#0D0705",
+        "color1": "#663B26",
+        "color2": "#524438",
+        "color3": "#704832",
+        "color4": "#5F564A",
+        "color5": "#7B5842",
+        "color6": "#80533B",
+        "color7": "#c2c1c0",
+        "color8": "#675855",
+        "color9": "#663B26",
+        "color10": "#524438",
+        "color11": "#704832",
+        "color12": "#5F564A",
+        "color13": "#7B5842",
+        "color14": "#80533B",
+        "color15": "#c2c1c0"
+    }
+}

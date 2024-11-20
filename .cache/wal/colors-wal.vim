@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/kiroshi/themes/current-wallpaper.jpg"
+let background = "#0C0B08"
+let foreground = "#c2c2c1"
+let cursor     = "#c2c2c1"
+
+" Colors
+let color0  = "#0C0B08"
+let color1  = "#704B33"
+let color2  = "#3E3F40"
+let color3  = "#695A48"
+let color4  = "#685D4E"
+let color5  = "#865036"
+let color6  = "#916D52"
+let color7  = "#c2c2c1"
+let color8  = "#696255"
+let color9  = "#704B33"
+let color10 = "#3E3F40"
+let color11 = "#695A48"
+let color12 = "#685D4E"
+let color13 = "#865036"
+let color14 = "#916D52"
+let color15 = "#c2c2c1"

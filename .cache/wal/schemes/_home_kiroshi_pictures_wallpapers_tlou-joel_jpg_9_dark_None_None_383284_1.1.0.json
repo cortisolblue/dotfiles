@@ -1,0 +1,28 @@
+{
+    "checksum": "f3ded647b50f0e62a84f6378f598bda6",
+    "wallpaper": "/home/kiroshi/pictures/wallpapers/tlou-joel.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0E10",
+        "foreground": "#c3c2c3",
+        "cursor": "#c3c2c3"
+    },
+    "colors": {
+        "color0": "#0F0E10",
+        "color1": "#433B39",
+        "color2": "#49433C",
+        "color3": "#3C3B42",
+        "color4": "#423E43",
+        "color5": "#4F4B4B",
+        "color6": "#696564",
+        "color7": "#c3c2c3",
+        "color8": "#6c586c",
+        "color9": "#433B39",
+        "color10": "#49433C",
+        "color11": "#3C3B42",
+        "color12": "#423E43",
+        "color13": "#4F4B4B",
+        "color14": "#696564",
+        "color15": "#c3c2c3"
+    }
+}

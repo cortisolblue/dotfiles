@@ -1,0 +1,28 @@
+{
+    "checksum": "8ad6a4b9caef3a60da76e5eb81c22def",
+    "wallpaper": "/home/kiroshi/pictures/wallpapers/retro-night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150c15",
+        "foreground": "#c4c2c4",
+        "cursor": "#c4c2c4"
+    },
+    "colors": {
+        "color0": "#150c15",
+        "color1": "#FBA274",
+        "color2": "#773983",
+        "color3": "#7D4284",
+        "color4": "#953C84",
+        "color5": "#C53E83",
+        "color6": "#A04F8C",
+        "color7": "#c4c2c4",
+        "color8": "#6d596d",
+        "color9": "#FBA274",
+        "color10": "#773983",
+        "color11": "#7D4284",
+        "color12": "#953C84",
+        "color13": "#C53E83",
+        "color14": "#A04F8C",
+        "color15": "#c4c2c4"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/kiroshi/themes/current-wallpaper.jpg
+
+set $background #0C0B08
+set $foreground #c2c2c1
+
+set $color0 #0C0B08
+set $color1 #704B33
+set $color2 #3E3F40
+set $color3 #695A48
+set $color4 #685D4E
+set $color5 #865036
+set $color6 #916D52
+set $color7 #c2c2c1
+set $color8 #696255
+set $color9 #704B33
+set $color10 #3E3F40
+set $color11 #695A48
+set $color12 #685D4E
+set $color13 #865036
+set $color14 #916D52
+set $color15 #c2c2c1

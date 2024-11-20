@@ -1,0 +1,28 @@
+{
+    "checksum": "dfc620aeda37d58955a4a59969bba659",
+    "wallpaper": "/home/kiroshi/pictures/wallpapers/silent-hill-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a09",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#090a09",
+        "color1": "#687475",
+        "color2": "#798577",
+        "color3": "#6F7D82",
+        "color4": "#78888B",
+        "color5": "#7CACC1",
+        "color6": "#92A1A5",
+        "color7": "#c1c1c1",
+        "color8": "#685555",
+        "color9": "#687475",
+        "color10": "#798577",
+        "color11": "#6F7D82",
+        "color12": "#78888B",
+        "color13": "#7CACC1",
+        "color14": "#92A1A5",
+        "color15": "#c1c1c1"
+    }
+}
