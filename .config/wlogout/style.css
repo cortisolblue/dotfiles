@@ -1,0 +1,68 @@
+/* IMPORT PYWAL */
+/*@import '~/.cache/wal/colors-waybar.css'; */ 
+
+/* GENERAL */
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+/* BACKGROUND */
+window {
+	background: url("/home/kiroshi/themes/current-wlogout.jpg");
+	background-size: cover;
+}
+
+/* BUTTON INACTIVE */
+button {
+    border-radius: 8px;
+    border-color: rgba(255, 255, 255, 0.5);
+	text-decoration-color: #FFFFFF;
+    color: #FFFFFF;
+	background-color: #1E1E1E; 
+	border-style: solid;
+	border-width: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+  background-color: rgba(12, 12, 12, 0.5); /* button bg no hover */
+}
+
+/* BUTTON ACTIVE */
+button:focus, button:active, button:hover {
+  color: #FFFFFF;
+	background-color: rgba(94, 82, 54, 0.5); /* button hover color */
+	outline-style: none;
+  border: 0px solid #FFFFFF;
+}
+
+/* INDIVIDUAL BUTTONS */
+#lock {
+    background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png"));
+    margin: 10px;
+}
+
+#logout {
+    background-image: image(url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png"));
+    margin: 10px;
+}
+
+#sleep {
+    background-image: image(url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png"));
+    margin: 10px;
+}
+
+#hibernate {
+    background-image: image(url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png"));
+    margin: 10px;
+}
+
+#shutdown {
+    background-image: image(url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png"));
+    margin: 10px;
+}
+
+#reboot {
+    background-image: image(url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png"));
+    margin: 10px
+}

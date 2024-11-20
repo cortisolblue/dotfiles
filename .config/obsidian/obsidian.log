@@ -1,0 +1,49 @@
+2024-10-31 00:14:31 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-10-31 00:14:31 Checking for update using Github
+2024-10-31 00:14:31 Success.
+2024-10-31 00:14:31 Latest version is 1.7.4
+2024-10-31 00:14:31 App is up to date.
+2024-11-11 12:45:26 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-11-11 12:45:26 Checking for update using Github
+2024-11-11 12:45:26 Success.
+2024-11-11 12:45:26 Latest version is 1.7.5
+2024-11-11 12:45:26 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.5/obsidian-1.7.5.asar.gz
+2024-11-11 12:45:27 Verifying hash & signature. Size= 8056498
+2024-11-11 12:45:27 Saving file
+2024-11-11 12:45:27 Update complete.
+2024-11-11 12:48:14 Loading updated app package /home/kiroshi/.config/obsidian/obsidian-1.7.5.asar
+2024-11-11 12:48:14 Checking for update using Github
+2024-11-11 12:48:14 Success.
+2024-11-11 12:48:14 Latest version is 1.7.5
+2024-11-11 12:48:14 App is up to date.
+2024-11-13 12:23:57 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-11-13 12:23:58 Checking for update using Github
+2024-11-13 12:23:58 Success.
+2024-11-13 12:23:58 Latest version is 1.7.6
+2024-11-13 12:23:58 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.6/obsidian-1.7.6.asar.gz
+2024-11-13 12:23:59 Verifying hash & signature. Size= 8000010
+2024-11-13 12:23:59 Saving file
+2024-11-13 12:23:59 Update complete.
+2024-11-13 12:25:27 Loading updated app package /home/kiroshi/.config/obsidian/obsidian-1.7.6.asar
+2024-11-13 12:25:27 Checking for update using Github
+2024-11-13 12:25:27 Success.
+2024-11-13 12:25:27 Latest version is 1.7.6
+2024-11-13 12:25:27 App is up to date.
+2024-11-15 04:12:58 Loading updated app package /home/kiroshi/.config/obsidian/obsidian-1.7.6.asar
+2024-11-15 04:12:58 Checking for update using Github
+2024-11-15 04:12:59 Success.
+2024-11-15 04:12:59 Latest version is 1.7.6
+2024-11-15 04:12:59 App is up to date.
+2024-11-15 05:12:58 Checking for update using Github
+2024-11-15 05:12:58 Success.
+2024-11-15 05:12:58 Latest version is 1.7.6
+2024-11-15 05:12:58 App is up to date.
+2024-11-15 06:12:58 Checking for update using Github
+2024-11-15 06:12:58 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2024-11-15 06:12:58 Checking for update using obsidian.md
+2024-11-15 06:12:58 Failed to check for update using obsidian.md (net::ERR_NAME_NOT_RESOLVED)
+2024-11-16 15:47:08 Loading updated app package /home/kiroshi/.config/obsidian/obsidian-1.7.6.asar
+2024-11-16 15:47:08 Checking for update using Github
+2024-11-16 15:47:09 Success.
+2024-11-16 15:47:09 Latest version is 1.7.6
+2024-11-16 15:47:09 App is up to date.

@@ -1,0 +1,21 @@
+@import "/home/kiroshi/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+border-radius: 7px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  spacing: 0;
+}
+
+element {
+  padding: 6;
+}
+
+element-icon {
+  size: 30;
+}
+
+window {
+  width: 35%;
+}

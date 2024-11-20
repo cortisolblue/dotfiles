@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "browsers.extension.enabled": true,
+  "security.autolock.minutes": 60,
+  "app.theme": "dark",
+  "security.authenticatedUnlock.enabled": true,
+  "authTags": {
+    "app.theme": "4mpzONkhtYD0fhmnjn9mqvZEoYttb9FsFN0txaXPu58",
+    "browsers.extension.enabled": "sfriIKI5we7oK1G2V6QAWHaCZ9qqS6J84oWQm/jELkA",
+    "security.authenticatedUnlock.enabled": "lo3slbK9PpCad4gWhipZW2JMc5b4NBPh7QIJMwF6Ylk",
+    "security.autolock.minutes": "yRVogffrpoHtJBNOe1WVJTIzQ5q6td0ZwowuQI6Y6TM"
+  }
+}

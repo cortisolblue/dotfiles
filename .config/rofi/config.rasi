@@ -1,0 +1,13 @@
+/* Basic Config */
+
+configuration {
+	modes: "window,drun,run";
+	font: "Radio Canada Big 14";
+	show-icons: true;
+	icon-theme: "Papirus";
+  drun-display-format: "{icon}  {name}";
+	display-window: "Windows";
+	display-drun: "App";
+}
+
+@theme "/home/kiroshi/.config/rofi/theme.rasi"

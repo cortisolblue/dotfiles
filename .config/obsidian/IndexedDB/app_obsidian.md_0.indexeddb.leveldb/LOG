@@ -1,0 +1,13 @@
+2024/11/16-10:47:09.662 f3d Reusing MANIFEST /home/kiroshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-10:47:09.662 f3d Recovering log #18
+2024/11/16-10:47:09.679 f3d Reusing old log /home/kiroshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000018.log 
+2024/11/16-10:47:09.679 f3d Delete type=2 #19
+2024/11/16-10:47:09.679 f3d Delete type=2 #17
+2024/11/16-10:47:11.090 f97 Level-0 table #24: started
+2024/11/16-10:47:11.116 f97 Level-0 table #24: 1416640 bytes OK
+2024/11/16-10:47:11.121 f97 Delete type=0 #18
+2024/11/16-10:47:11.145 f3d Compacting 1@1 + 2@2 files
+2024/11/16-10:47:11.199 f3d Generated table #25@1: 4480 keys, 2151081 bytes
+2024/11/16-10:47:11.214 f3d Generated table #26@1: 497 keys, 244398 bytes
+2024/11/16-10:47:11.214 f3d Compacted 1@1 + 2@2 files => 2395479 bytes
+2024/11/16-10:47:11.219 f3d compacted to: files[ 0 0 2 0 0 0 0 ]

@@ -1,0 +1,20 @@
+2024/11/14-23:13:00.001 cec Reusing MANIFEST /home/kiroshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/14-23:13:00.001 cec Recovering log #11
+2024/11/14-23:13:00.020 cec Reusing old log /home/kiroshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000011.log 
+2024/11/14-23:13:43.606 ceb Level-0 table #16: started
+2024/11/14-23:13:43.622 ceb Level-0 table #16: 1105105 bytes OK
+2024/11/14-23:13:43.626 ceb Delete type=0 #11
+2024/11/14-23:13:44.408 d47 Compacting 1@1 + 1@2 files
+2024/11/14-23:13:44.448 d47 Generated table #17@1: 3786 keys, 1551567 bytes
+2024/11/14-23:13:44.448 d47 Compacted 1@1 + 1@2 files => 1551567 bytes
+2024/11/14-23:13:44.452 d47 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/14-23:13:44.453 d47 Delete type=2 #16
+2024/11/14-23:13:44.453 d47 Delete type=2 #13
+2024/11/14-23:14:01.099 cec Level-0 table #19: started
+2024/11/14-23:14:01.129 cec Level-0 table #19: 1249438 bytes OK
+2024/11/14-23:14:01.134 cec Delete type=0 #15
+2024/11/14-23:14:16.144 cec Compacting 1@1 + 1@2 files
+2024/11/14-23:14:16.191 cec Generated table #20@1: 4468 keys, 2151692 bytes
+2024/11/14-23:14:16.197 cec Generated table #21@1: 443 keys, 198703 bytes
+2024/11/14-23:14:16.197 cec Compacted 1@1 + 1@2 files => 2350395 bytes
+2024/11/14-23:14:16.202 cec compacted to: files[ 0 0 2 0 0 0 0 ]
